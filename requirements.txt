@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+ollama
+matplotlib
+
+# Install packages: pip install -r requirements.txt
+
+# Run locally: streamlit run app.py
+
+# Commit to GitHub with .py, requirements.txt, and notes in assets/
